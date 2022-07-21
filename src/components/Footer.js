@@ -1,6 +1,7 @@
 import React from 'react';
 
 function Footer() {
+  return(
     <div id="contact">
     <h3>Contact</h3>
     <ul class="footer">
@@ -16,6 +17,7 @@ function Footer() {
       >Resume PDF</a></li>
     </ul>
   </div>
+  );
 };
 
 export default Footer;
