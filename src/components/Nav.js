@@ -1,30 +1,45 @@
 import React from 'react';
 
-function Nav(currentPage, handlePageChange) {
+function Nav({currentPage, handlePageChange}) {
+  // const handlePageChange = (page) => {
+  //   console.log(page)
+  //   // setCurrentPage(page);
+  // }
   return (
     <div>
-    <nav className="links">
+    <nav className="links nav-link">
       <ul className="navigation">
         <li><a 
-              href="#main-project"
-              onClick={() => handlePageChange('Development')}
-              className={currentPage === 'Development' ? 'nav-link active' : 'nav-link'}
-              >Development</a></li>
+              href="#project"
+              onSubmit={() => handlePageChange('Project')}
+              className={currentPage === 'Project' ? 'nav-link active' : 'links'}
+              >Development
+            </a>
+        </li>
+        <br />
         <li><a 
               href="#contact"
-              onClick={() => handlePageChange('Contact')}
-              className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
-              >Contact</a></li>
+              onSubmit={() => handlePageChange('Contact')}
+              className={currentPage === 'Contact' ? 'nav-link active' : 'links'}
+              >Contact
+            </a>
+        </li>
+        <br />
         <li><a 
               href="#resume"
-              onClick={() => handlePageChange('Resume')}
-              className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
-              >Resume</a></li>
+              onSubmit={() => handlePageChange('Resume')}
+              className={currentPage === 'Resume' ? 'nav-link active' : 'links'}
+              >Resume
+            </a>
+        </li>
+        <br />
         <li><a 
-              href="#about-me"
-              onClick={() => handlePageChange('About')}
-              className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
-              >About</a></li>
+              href="#about"
+              onSubmit={() => handlePageChange('About')}
+              className={currentPage === 'About' ? 'nav-link active' : 'links'}
+              >About
+            </a>
+        </li>
       </ul>
     </nav>
     </div>
