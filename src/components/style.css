@@ -178,16 +178,20 @@ p {
   transition: .5s ease-in-out;
 }
 
+/* .nav-link a:active {
+  color: white;
+  background: orange;
+} */
+
 .navigation {
   font-size: 3em;
   justify-content: center;
   text-align: center;
   white-space: nowrap;
-  padding-right: 40px;
 }
 .navigation li {
   display: inline-block;
-  padding: 1em;
+  padding: 1em, 0em;
 }
 
 /* Sections */
@@ -216,7 +220,6 @@ header {
   justify-content: center;
   text-align: center;
   font-size: 2em;
-  padding-right: 40px;
 }
 
 .footer li {
@@ -236,6 +239,7 @@ ul {
   .flex,
   .navigation {
     flex-direction: column;
+    display: block;
   }
   p.text {
     font-size: .5;
