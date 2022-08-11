@@ -11,7 +11,7 @@ function Nav({currentPage, handlePageChange}) {
       <ul className="navigation">
         <li><a 
               href="#project"
-              onSubmit={() => handlePageChange('Project')}
+              onClick={() => handlePageChange('Project')}
               className={currentPage === 'Project' ? 'nav-link active' : 'links'}
               >Development
             </a>
@@ -19,7 +19,7 @@ function Nav({currentPage, handlePageChange}) {
         <br />
         <li><a 
               href="#contact"
-              onSubmit={() => handlePageChange('Contact')}
+              onClick={() => handlePageChange('Contact')}
               className={currentPage === 'Contact' ? 'nav-link active' : 'links'}
               >Contact
             </a>
@@ -27,7 +27,7 @@ function Nav({currentPage, handlePageChange}) {
         <br />
         <li><a 
               href="#resume"
-              onSubmit={() => handlePageChange('Resume')}
+              onClick={() => handlePageChange('Resume')}
               className={currentPage === 'Resume' ? 'nav-link active' : 'links'}
               >Resume
             </a>
@@ -35,7 +35,7 @@ function Nav({currentPage, handlePageChange}) {
         <br />
         <li><a 
               href="#about"
-              onSubmit={() => handlePageChange('About')}
+              onClick={() => handlePageChange('About')}
               className={currentPage === 'About' ? 'nav-link active' : 'links'}
               >About
             </a>
