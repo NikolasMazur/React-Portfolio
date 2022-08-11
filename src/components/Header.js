@@ -7,7 +7,7 @@ function Header() {
         <h1>
           Hi,
           <br />
-          <span className="indent">I'm Nikolas Mazur.</span>
+          <span className="indent">I'm Nikolas Mazur,</span>
         </h1>
     </header>
     </div>
