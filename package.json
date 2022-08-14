@@ -20,12 +20,11 @@
   "bugs": {
     "url": "https://github.com/NikolasMazur/React-Portfolio/issues"
   },
-  "homepage": "https://github.com/NikolasMazur/React-Portfolio",
+  "homepage": "https://nikolasmazur.github.io/React-Portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "gh-pages": "^4.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.2.0",
@@ -46,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "react-error-overlay": "^6.0.9"
   }
 }
