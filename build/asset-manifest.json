@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NikolasMazur/React-Portfolio/static/css/main.61b48b41.chunk.css",
+    "main.js": "/NikolasMazur/React-Portfolio/static/js/main.8c8c1628.chunk.js",
+    "main.js.map": "/NikolasMazur/React-Portfolio/static/js/main.8c8c1628.chunk.js.map",
+    "runtime-main.js": "/NikolasMazur/React-Portfolio/static/js/runtime-main.3acd048d.js",
+    "runtime-main.js.map": "/NikolasMazur/React-Portfolio/static/js/runtime-main.3acd048d.js.map",
+    "static/js/2.e30b7315.chunk.js": "/NikolasMazur/React-Portfolio/static/js/2.e30b7315.chunk.js",
+    "static/js/2.e30b7315.chunk.js.map": "/NikolasMazur/React-Portfolio/static/js/2.e30b7315.chunk.js.map",
+    "index.html": "/NikolasMazur/React-Portfolio/index.html",
+    "static/css/main.61b48b41.chunk.css.map": "/NikolasMazur/React-Portfolio/static/css/main.61b48b41.chunk.css.map",
+    "static/js/2.e30b7315.chunk.js.LICENSE.txt": "/NikolasMazur/React-Portfolio/static/js/2.e30b7315.chunk.js.LICENSE.txt",
+    "static/media/IMG_3673.93d23381.jpg": "/NikolasMazur/React-Portfolio/static/media/IMG_3673.93d23381.jpg",
+    "static/media/busy-parents-dashboard.1771cf2f.png": "/NikolasMazur/React-Portfolio/static/media/busy-parents-dashboard.1771cf2f.png",
+    "static/media/day-scheduler.1a1c07f4.png": "/NikolasMazur/React-Portfolio/static/media/day-scheduler.1a1c07f4.png",
+    "static/media/inquirer.ea8fdc0f.PNG": "/NikolasMazur/React-Portfolio/static/media/inquirer.ea8fdc0f.PNG",
+    "static/media/password-generator.82b924ba.png": "/NikolasMazur/React-Portfolio/static/media/password-generator.82b924ba.png",
+    "static/media/pocket-monster.bafb7825.png": "/NikolasMazur/React-Portfolio/static/media/pocket-monster.bafb7825.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3acd048d.js",
+    "static/js/2.e30b7315.chunk.js",
+    "static/css/main.61b48b41.chunk.css",
+    "static/js/main.8c8c1628.chunk.js"
+  ]
+}
