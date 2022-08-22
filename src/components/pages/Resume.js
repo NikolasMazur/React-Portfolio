@@ -1,4 +1,5 @@
 import React from 'react';
+import resume from '../../assets/pdf/resume.pdf'
 
 const style = {
   Content: {
@@ -10,8 +11,7 @@ const style = {
     fontSize: "1em",
     textAlign: "center",
     lineHeight: "170%",
-    marginTop: "2%",
-    marginBottom: "5%",
+    marginTop: "1%",
   }
 };
 
@@ -44,8 +44,12 @@ export default function Resume() {
             <li>
               MongoDB
             </li>
+            <br />
+            <br />
+            <li>
+            <a style={style.Content} href={resume} target="_blank">Resume PDF</a>
+            </li>
           </ul>
-          <a style={style.Content} href="./assets/pdf/Resume (2022).pdf" target="_blank">Resume PDF</a>
         </div>
     )
 }
