@@ -27,9 +27,9 @@ function Footer() {
       <li className="links"><a
       href="https://www.linkedin.com/in/nikolas-mazur-97b312230/" target="_blank"
       >LinkedIn</a></li>
-      <li className="links"><a
+      {/* <li className="links"><a
       href="https://stackoverflow.com/users/18041955/nikolas" target="_blank"
-      >Stack Overflow</a></li>
+      >Stack Overflow</a></li> */}
     </ul>
   </div>
   );
