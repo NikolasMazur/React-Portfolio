@@ -1,11 +1,18 @@
 import React from 'react';
-import Photo from '../../assets/images/IMG_3673.jpg'
+// import Photo from '../../assets/images/IMG_3673.jpg'
 
 export default function About() {
     return (
         <div>
+         <header className="title">
+          <h1>
+            Hi,
+            <br />
+            I'm Nikolas Mazur,
+          </h1>
+         </header>
           <section id="about-me">
-            <img className="photo" src={Photo} alt="Out of date Nikolas picture" />
+            {/* <img className="photo" src={Photo} alt="Out of date Nikolas picture" /> */}
             <p className="paragraph"> a developer currently located in Lander, Wyoming. I've received certifications in varous languages including HTML, CSS, SQL, Python, and MongoDB. Currently I'm enrolled in a full 
               stack development bootcamp to further my knowledge of web devlopment languages and technologies; namely HTML, CSS, and JavaScript.
               <br />
