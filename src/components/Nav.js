@@ -17,14 +17,14 @@ function Nav({currentPage, handlePageChange}) {
             </a>
         </li>
         <br />
-        <li><a 
+        {/* <li><a 
               href="#contact"
               onClick={() => handlePageChange('Contact')}
               className={currentPage === 'Contact' ? 'nav-link active' : 'links'}
               >Contact
             </a>
         </li>
-        <br />
+        <br /> */}
         <li><a 
               href="#resume"
               onClick={() => handlePageChange('Resume')}
