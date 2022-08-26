@@ -4,7 +4,7 @@ import resume from '../../assets/pdf/resume.pdf'
 const style = {
   Content: {
     textAlign: "center",
-    marginTop: "10%",
+    marginTop: "5%",
     fontSize: "2em"
   },
   Competencies: {
