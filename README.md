@@ -17,5 +17,5 @@ You can visit the deployed site [here](https://nikolasmazur.github.io/React-Port
 ## Questions
 For additional information you can reach out at the GitHub account "NikolasMazur".
 
-### Todo
-- Make links hold 'nav-link active' class insead of just when clicking
+Todo:
+Redesign project page to be more visually appealing.
