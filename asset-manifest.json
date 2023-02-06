@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.af12447f.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.5c2c7f71.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.5c2c7f71.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.aee44217.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.f42f156c.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.f42f156c.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.e8bd7a8a.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.e8bd7a8a.js.map",
-    "static/js/2.e30b7315.chunk.js": "/React-Portfolio/static/js/2.e30b7315.chunk.js",
-    "static/js/2.e30b7315.chunk.js.map": "/React-Portfolio/static/js/2.e30b7315.chunk.js.map",
+    "static/js/2.8ed00463.chunk.js": "/React-Portfolio/static/js/2.8ed00463.chunk.js",
+    "static/js/2.8ed00463.chunk.js.map": "/React-Portfolio/static/js/2.8ed00463.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.af12447f.chunk.css.map": "/React-Portfolio/static/css/main.af12447f.chunk.css.map",
-    "static/js/2.e30b7315.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.e30b7315.chunk.js.LICENSE.txt",
+    "static/css/main.aee44217.chunk.css.map": "/React-Portfolio/static/css/main.aee44217.chunk.css.map",
+    "static/js/2.8ed00463.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.8ed00463.chunk.js.LICENSE.txt",
     "static/media/busy-parents-dashboard.1771cf2f.png": "/React-Portfolio/static/media/busy-parents-dashboard.1771cf2f.png",
     "static/media/day-scheduler.1a1c07f4.png": "/React-Portfolio/static/media/day-scheduler.1a1c07f4.png",
     "static/media/inquirer.ea8fdc0f.PNG": "/React-Portfolio/static/media/inquirer.ea8fdc0f.PNG",
     "static/media/jate.8936857f.png": "/React-Portfolio/static/media/jate.8936857f.png",
     "static/media/pocket-monster.bafb7825.png": "/React-Portfolio/static/media/pocket-monster.bafb7825.png",
-    "static/media/resume.10bf03bc.pdf": "/React-Portfolio/static/media/resume.10bf03bc.pdf",
+    "static/media/resume.dbadd9e6.pdf": "/React-Portfolio/static/media/resume.dbadd9e6.pdf",
     "static/media/social-network-api.fa2ce16e.png": "/React-Portfolio/static/media/social-network-api.fa2ce16e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e8bd7a8a.js",
-    "static/js/2.e30b7315.chunk.js",
-    "static/css/main.af12447f.chunk.css",
-    "static/js/main.5c2c7f71.chunk.js"
+    "static/js/2.8ed00463.chunk.js",
+    "static/css/main.aee44217.chunk.css",
+    "static/js/main.f42f156c.chunk.js"
   ]
 }
