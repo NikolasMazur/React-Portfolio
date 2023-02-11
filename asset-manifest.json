@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.0ac9495c.chunk.css",
+    "main.css": "/React-Portfolio/static/css/main.3b2ca73e.chunk.css",
     "main.js": "/React-Portfolio/static/js/main.4edd4c5c.chunk.js",
     "main.js.map": "/React-Portfolio/static/js/main.4edd4c5c.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.e8bd7a8a.js",
@@ -8,7 +8,7 @@
     "static/js/2.8ed00463.chunk.js": "/React-Portfolio/static/js/2.8ed00463.chunk.js",
     "static/js/2.8ed00463.chunk.js.map": "/React-Portfolio/static/js/2.8ed00463.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.0ac9495c.chunk.css.map": "/React-Portfolio/static/css/main.0ac9495c.chunk.css.map",
+    "static/css/main.3b2ca73e.chunk.css.map": "/React-Portfolio/static/css/main.3b2ca73e.chunk.css.map",
     "static/js/2.8ed00463.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.8ed00463.chunk.js.LICENSE.txt",
     "static/media/busy-parents-dashboard.1771cf2f.png": "/React-Portfolio/static/media/busy-parents-dashboard.1771cf2f.png",
     "static/media/day-scheduler.1a1c07f4.png": "/React-Portfolio/static/media/day-scheduler.1a1c07f4.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.e8bd7a8a.js",
     "static/js/2.8ed00463.chunk.js",
-    "static/css/main.0ac9495c.chunk.css",
+    "static/css/main.3b2ca73e.chunk.css",
     "static/js/main.4edd4c5c.chunk.js"
   ]
 }
