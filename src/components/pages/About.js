@@ -1,20 +1,5 @@
-// import Nav from '../Nav';
 import { NavLink } from "react-router-dom";
 import resume from '../../assets/pdf/resume.pdf'
-
-// const style = {
-//   Content: {
-//     textAlign: "center",
-//     marginTop: "5%",
-//     fontSize: "2em"
-//   },
-//   Competencies: {
-//     fontSize: "1em",
-//     textAlign: "center",
-//     lineHeight: "170%",
-//     marginTop: "1%",
-//   }
-// };
 
 export default function About() {
     return (

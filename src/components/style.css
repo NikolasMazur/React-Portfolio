@@ -9,7 +9,12 @@
     --yellow: rgb(255, 205, 55);
     --altyellow: rgb(235, 194, 84);
     --red: rgb(249, 19, 22);
-  }
+}
+
+::selection {
+  background: var(--black);
+  color: var(--white);
+}
 
 /* Reset */
 * {
@@ -60,7 +65,6 @@ main {
 body {
   background-color: var(--altyellow); /* or var(--background);  var(--yellow)*/
   font-family:  'Fraunces', serif;
-  /* font-variant: small-caps; */
 }
 
 h2,
@@ -70,7 +74,6 @@ h3 {
 
 p {
   font-size: 1.75em;
-  /* margin: 15px 30%; */
   line-height: 120%;
 }
 
@@ -104,7 +107,7 @@ p {
 /* Project Page */
 .project-container {
   min-height: 100vh;
-  background-color: var(--background);
+  background-color: var(--altyellow);
 }
 
 #main-project {
@@ -241,28 +244,21 @@ header {
 }
 
 #about-me {
-  background-color: var(--background);
+  background-color: var(--altyellow);
   font-weight: 300;
   justify-content: center;
   text-align: center;
   /* margin-top: 50px; /* 80px */
 }
 
-.about-me-container,
-.technical-container {
-  height: 100vh;
+.about-me-container {
+  /* height: 100vh; */
 }
 
 .about-me-content {
+  width: 75%;
   position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.technical-container {
-  position: absolute;
-  top: 125%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -326,6 +322,20 @@ ul {
 /* Homepage */
 
 /* Media */
+@media screen and (max-width: 655px) {
+  .about-me-content {
+    position: sticky;
+    width: 80%;
+    top: 0%;
+    left: 0%;
+    transform: translate(0%, 0%);
+  }
+  .about-me-container {
+    width: 100%;
+    margin: 5% 10% 0% 10%;
+  }
+}
+
 @media screen and (max-width: 768px) {
   main,
   header,
