@@ -16,7 +16,7 @@ export default function About() {
                     <NavLink className='underline' to='/react-portfolio'>home</NavLink>. 
                     I am a recent University of Washington full stack web development 
                     bootcamp graduate with experience in IT support. More recently I've 
-                    been working as a backend python developer for a resource management 
+                    been working as a back-end Python developer for a resource management 
                     software. Additionally, I've received various certifications in varous 
                     languages including JavaScript, CSS, SQL, Python, and MongoDB.
                     <br />
@@ -31,31 +31,31 @@ export default function About() {
                   <h2 className='technical'>Technical Competencies</h2>
                   <ul className='competencies'>
                     <li>
-                      HTML
+                    Full Stack Web Development &#8211; (HTML, CSS, WordPress)
                     </li>
                     <li>
-                      CSS
+                    Functional Programming
                     </li>
                     <li>
-                      JavaScript
+                    JavaScript &#8211; (Node.js, React, Express)
                     </li>
                     <li>
-                      React
+                    Python &#8211; (Flask, Jinja2)
                     </li>
                     <li>
-                      NodeJS
+                    MongoDB
                     </li>
                     <li>
-                      Express
+                    SQL &#8211; (MySQL, PostgreSQL)
                     </li>
                     <li>
-                      SQL
+                    Git
                     </li>
                     <li>
-                      MongoDB
+                    Windows
                     </li>
                     <li>
-                      Python
+                    Linux
                     </li>
                     <br />
                     <br />

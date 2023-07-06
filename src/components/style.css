@@ -251,10 +251,6 @@ header {
   /* margin-top: 50px; /* 80px */
 }
 
-.about-me-container {
-  /* height: 100vh; */
-}
-
 .about-me-content {
   width: 75%;
   position: absolute;
@@ -295,7 +291,7 @@ ul {
 .homepage {
   font-size: 3em;
   /* width: 968.17px; */
-  width: 991.02px;
+  width: 1000px;
   line-height: 90%;
   text-align: right;
   margin: auto;
